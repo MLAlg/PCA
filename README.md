@@ -3,6 +3,6 @@ Principal Component Analysis,
 
 problem: unsupervised learning,
 
-type: dimensionality reduction,
+type: clustering-dimensionality reduction,
 
 dataset: load_digits
